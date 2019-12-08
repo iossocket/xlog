@@ -1,0 +1,23 @@
+PODS:
+  - SSZipArchive (2.2.2)
+  - xlog (0.1.0):
+    - SSZipArchive
+
+DEPENDENCIES:
+  - xlog (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SSZipArchive
+
+EXTERNAL SOURCES:
+  xlog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSZipArchive: fa16b8cc4cdeceb698e5e5d9f67e9558532fbf23
+  xlog: 517435291680f161aa16e33fd6e96bb4a73721d3
+
+PODFILE CHECKSUM: d96ad3d2a27bc19ed1150c5347910d937b50b4e5
+
+COCOAPODS: 1.8.4

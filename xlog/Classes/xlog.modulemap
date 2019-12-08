@@ -1,0 +1,5 @@
+framework module xlog {
+    header "XLogger.h"
+    header "MarsXLogger.h"
+    export *
+}
